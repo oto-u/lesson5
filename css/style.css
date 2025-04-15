@@ -1,0 +1,127 @@
+/* header */
+.title_div {
+    width: 716px;
+    margin: 0 auto;
+}
+.ourteam {
+    font-family: Inter 24pt;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+    
+}
+.meettheteam {
+    font-family: Inter 24pt;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 62px;
+    letter-spacing: -1px;
+    text-align: center;
+
+}
+.titledescr_div {
+    width: 760px;
+    margin: 0 auto;
+    margin-top: 16px;
+
+}
+.titledescr {
+    font-family: Inter 24pt;
+font-weight: 400;
+font-size: 20px;
+line-height: 35px;
+letter-spacing: 0px;
+text-align: center;
+
+}
+/* main */
+.row1 {
+    margin-top: 48px;
+    display: flex;
+    justify-content: space-between;
+}
+.row2 {
+    margin-top: 48px;
+    display: flex;
+    justify-content: space-between;
+}
+.flex_box {
+    width: 310px ;
+    height: 430px;
+    background-color: #ffffff;
+    border: 1px #EAECF0;
+    
+}
+.name{
+    font-family: Inter 24pt;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #282828;
+    
+    
+
+}
+.profession {
+    font-family: Inter 24pt;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0px;
+    color: #3E3E59;
+
+}
+.description {
+    font-family: Inter 24pt;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0px;
+    color: #5F6980;
+    
+}
+.descr_div {
+    width: 278px;
+    margin: 0 auto;
+}
+.icon {
+    margin-top: 24px;
+   
+}
+/* section */
+.section_div {
+    width: 1336px;
+    margin: 0 auto;
+}
+/* section done */
+/* footer */
+.footer_section {
+    margin-top: 4p;
+    background-color: #53535354;
+    
+    
+
+}
+.footer_main {
+    width: 1128px;
+    margin: 0 auto;
+    margin-top: 108px;
+    
+    
+}
+.footerdiv_1 {
+    width: 318.05px;
+}
+.footerbigtext {
+    width: 306.05px;
+    margin: 0 auto;
+    margin-top: 32px;
+}
+.footerdiv_2 {
+    
+    width: 136px;
+    margin-left: 73.95px;
+}
